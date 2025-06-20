@@ -4,11 +4,11 @@ This project is a React-based implementation of the [Figma Design](https://www.f
 
 ## 🚀 Live Demo
 
-🌐 [Live Site Link](https://your-deployment-link.com)
+🌐 [Live Site Link](https://arka-assignment-b2e5cqs5g-md-aweshs-projects.vercel.app/)
 
 ## 📁 GitHub Repository
 
-🔗 [GitHub Link](https://github.com/your-username/arka-assignment)
+🔗 [GitHub Link](https://github.com/Awesh005/Arka-Assignment/)
 
 ---
 
